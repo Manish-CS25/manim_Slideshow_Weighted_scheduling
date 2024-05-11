@@ -1,0 +1,5 @@
+# Exclude my_directory
+/media
+
+# Exclude my_file.txt
+/slides
